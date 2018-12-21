@@ -24,6 +24,26 @@
 
 <!-- .slide: data-transition="slide" -->
 
+# How does it work?
+
+- JS Core <!-- .element: class="fragment" data-fragment-index="1" -->
+- engine LLVM iOS / Android NDK <!-- .element: class="fragment" data-fragment-index="2" -->
+- framework + your code Dart VM in dev <!-- .element: class="fragment" data-fragment-index="3" -->
+- framework + your code AOT to native ARM library in release <!-- .element: class="fragment" data-fragment-index="4" -->
+
+---
+
+<!-- .slide: data-transition="slide" -->
+
+# How does it work?
+
+- React Native – JS ➡️ RN Magic ➡️ Native Views <!-- .element: class="fragment" data-fragment-index="1" -->
+- Flutter – Dart ➡️ Flutter framework ➡️ Skia <!-- .element: class="fragment" data-fragment-index="2" -->
+
+---
+
+<!-- .slide: data-transition="slide" -->
+
 # Let the battle begin! 👊
 
 ---
@@ -202,15 +222,6 @@
 <!-- .slide: data-transition="slide" -->
 
 # What else matters? Let's discuss
-
----
-
-<!-- .slide: data-transition="slide" -->
-
-# How does it work?
-
-- React Native – JS ➡️ RN Magic ➡️ Native Views <!-- .element: class="fragment" data-fragment-index="1" -->
-- Flutter – Dart ➡️ Flutter framework ➡️ Skia <!-- .element: class="fragment" data-fragment-index="2" -->
 
 ---
 
