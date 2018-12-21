@@ -232,5 +232,7 @@
 
 andrei.lesnitsky@gmail.com
 https://twitter.com/lesnitsky_a
+
+https://lesnitsky.github.io/react-native-vs-flutter-slides/#/
 https://github.com/lesnitsky/howtodothisinflutter
 https://github.com/lesnitsky/todolist_flutter
