@@ -1,0 +1,14 @@
+{
+  "name": "react-native-vs-flutter-slides",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "reveal-md slides.md --theme theme/custom.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "reveal-md": "^2.4.0"
+  }
+}
