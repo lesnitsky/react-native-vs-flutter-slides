@@ -221,6 +221,120 @@
 
 <!-- .slide: data-transition="slide" -->
 
+# Native Modules
+
+- React Native ✅ <!-- .element: class="fragment" data-fragment-index="1" -->
+- Flutter ✅ <!-- .element: class="fragment" data-fragment-index="2" -->
+
+---
+
+<!-- .slide: data-transition="slide" -->
+
+# React Native 9 : 9 Flutter
+
+---
+
+<!-- .slide: data-transition="slide" -->
+
+# Sentry
+
+- React Native ✅ <!-- .element: class="fragment" data-fragment-index="1" -->
+- Flutter ✅ <!-- .element: class="fragment" data-fragment-index="2" -->
+
+---
+
+<!-- .slide: data-transition="slide" -->
+
+# React Native 10 : 10 Flutter
+
+---
+
+<!-- .slide: data-transition="slide" -->
+
+# Bundle Size (APK)
+
+- React Native – 7.4 iOS / <!-- .element: class="fragment" data-fragment-index="1" -->
+- Flutter – 4.06 MB <!-- .element: class="fragment" data-fragment-index="2" -->
+
+---
+
+<!-- .slide: data-transition="slide" -->
+
+# React Native 10 : 11 Flutter
+
+---
+
+<!-- .slide: data-transition="slide" -->
+
+# Bundle Size (IPA)
+
+- React Native – 7.3 MB (?) / <!-- .element: class="fragment" data-fragment-index="1" -->
+- Flutter – 10.8 MB <!-- .element: class="fragment" data-fragment-index="2" -->
+
+---
+
+<!-- .slide: data-transition="slide" -->
+
+# React Native 11 : 11 Flutter
+
+---
+
+<!-- .slide: data-transition="slide" -->
+
+# Performance
+
+---
+
+<!-- .slide: data-transition="slide" -->
+
+# React Native 11 : 12 Flutter
+
+---
+
+<!-- .slide: data-transition="slide" -->
+
+# Learning curve for web devs
+
+---
+
+<!-- .slide: data-transition="slide" -->
+
+# React Native 12 : 12 Flutter
+
+---
+
+<!-- .slide: data-transition="slide" -->
+
+# Web as a target
+
+- react-native-web <!-- .element: class="fragment" data-fragment-index="1" -->
+- Hummingbird <!-- .element: class="fragment" data-fragment-index="2" -->
+
+---
+
+<!-- .slide: data-transition="slide" -->
+
+# React Native 12.5 : 12.5 Flutter
+
+---
+
+<!-- .slide: data-transition="slide" -->
+
+# Desktop as a target
+
+- react-native-windows/react-native-macos/react-native-desktop <!-- .element: class="fragment" data-fragment-index="1" -->
+- flutter-desktop-embedding <!-- .element: class="fragment" data-fragment-index="2" -->
+
+---
+
+<!-- .slide: data-transition="slide" -->
+
+# React Native 13 : 13 Flutter
+
+---
+
+<!-- .slide: data-transition="slide" -->
+
 # What else matters? Let's discuss
 
 ---
