@@ -253,7 +253,7 @@
 
 # Bundle Size (APK)
 
-- React Native – 7.4 iOS / <!-- .element: class="fragment" data-fragment-index="1" -->
+- React Native – 7.4 iOS <!-- .element: class="fragment" data-fragment-index="1" -->
 - Flutter – 4.06 MB <!-- .element: class="fragment" data-fragment-index="2" -->
 
 ---
