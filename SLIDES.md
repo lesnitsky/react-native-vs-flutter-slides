@@ -1,5 +1,9 @@
 # React Native vs Flutter
 
+Andrei Lesnitsky
+
+@lesnitsky_a
+
 ---
 
 <!-- .slide: data-transition="slide" -->
@@ -10,7 +14,7 @@
 
 <!-- .slide: data-transition="slide" -->
 
-# 3 Months with Flutter
+# 5 Months with Flutter
 
 # 😻 <!-- .element: class="fragment" data-fragment-index="1" -->
 
@@ -52,8 +56,8 @@
 
 # Stars 🌟
 
-- React Native – 72k <!-- .element: class="fragment" data-fragment-index="1" -->
-- Flutter – 47.1k <!-- .element: class="fragment" data-fragment-index="2" -->
+- React Native – 73.3k (+1) <!-- .element: class="fragment" data-fragment-index="1" -->
+- Flutter – 51.9k (+4) <!-- .element: class="fragment" data-fragment-index="2" -->
 
 ---
 
@@ -69,6 +73,12 @@
 
 ---
 
+# Greenfield apps
+
+![](https://s3.eu-central-1.amazonaws.com/lesnitsky-slides/greenfield.png)
+
+---
+
 <!-- .slide: data-transition="slide" -->
 
 # Greenfield apps
@@ -81,6 +91,12 @@
 <!-- .slide: data-transition="slide" -->
 
 # React Native 1 : 1 Flutter
+
+---
+
+# Brownfield apps
+
+![](https://s3.eu-central-1.amazonaws.com/lesnitsky-slides/brownfield.png)
 
 ---
 
@@ -253,8 +269,8 @@
 
 # Bundle Size (APK)
 
-- React Native – 7.4 iOS <!-- .element: class="fragment" data-fragment-index="1" -->
-- Flutter – 4.06 MB <!-- .element: class="fragment" data-fragment-index="2" -->
+- React Native – 7.4 Mb <!-- .element: class="fragment" data-fragment-index="1" -->
+- Flutter – 4.06 Mb <!-- .element: class="fragment" data-fragment-index="2" -->
 
 ---
 
@@ -268,8 +284,8 @@
 
 # Bundle Size (IPA)
 
-- React Native – 7.3 MB (?) / <!-- .element: class="fragment" data-fragment-index="1" -->
-- Flutter – 10.8 MB <!-- .element: class="fragment" data-fragment-index="2" -->
+- React Native – 7.3 Mb (?) <!-- .element: class="fragment" data-fragment-index="1" -->
+- Flutter – 10.8 Mb <!-- .element: class="fragment" data-fragment-index="2" -->
 
 ---
 
